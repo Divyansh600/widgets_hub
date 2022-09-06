@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "210673698287",
+    "project_id": "widgets-hubs-125ab",
+    "storage_bucket": "widgets-hubs-125ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210673698287:android:35c58f00252da97b6f621a",
+        "android_client_info": {
+          "package_name": "com.example.widgets_hub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210673698287-731prm7jed0d4g1voobj1ldj3qcdoakv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS2v3PzPQldD5BhVAHFQKs_RYh0He84o4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210673698287-731prm7jed0d4g1voobj1ldj3qcdoakv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "210673698287-u23lu7cn6fs3u0bcis8bgunodilt5g8s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.widgetsHub"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
